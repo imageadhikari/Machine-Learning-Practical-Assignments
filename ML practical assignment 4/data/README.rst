@@ -1,0 +1,1 @@
+wget needs to be installed before running the scripts for data.
