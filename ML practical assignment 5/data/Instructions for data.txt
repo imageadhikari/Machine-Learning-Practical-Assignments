@@ -1,0 +1,7 @@
+Download 
+stackoverflow.com-Posts.7z
+
+from 
+https://archive.org/download/stackexchange
+
+and unzip it to get the data. Keep the data under the "data" directory.
